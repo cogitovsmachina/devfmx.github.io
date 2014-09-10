@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DevF blog</title>
+    <description>Este es el blog oficial de DevF, la des-escuela para hackers hispanoparlantes.
+</description>
+    <link>http://devf.mx/</link>
+    <atom:link href="http://devf.mx/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sat, 23 Aug 2014 03:20:37 -0500</pubDate>
+    <lastBuildDate>Sat, 23 Aug 2014 03:20:37 -0500</lastBuildDate>
+    <generator>Jekyll v2.3.0</generator>
+    
+      <item>
+        <title>Welcome to Jekyll!</title>
+        <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code&gt;jekyll serve --watch&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;Tom&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &amp;#39;Hi, Tom&amp;#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 22 Aug 2014 17:01:20 -0500</pubDate>
+        <link>http://devf.mx/jekyll/update/2014/08/22/welcome-to-jekyll%20copia.html</link>
+        <guid isPermaLink="true">http://devf.mx/jekyll/update/2014/08/22/welcome-to-jekyll%20copia.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Adventure Time!</title>
+        <description>&lt;p&gt;&lt;img src=&quot;https://farm6.staticflickr.com/5562/14826626553_8c7db1c9dc_c.jpg&quot; alt=&quot;&quot; title=&quot;Programar es lo más cercano que tenemos a tener superpoderes&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;El final de una etapa ha terminado hoy, pero una nueva está por comenzar.&lt;/p&gt;
+
+&lt;p&gt;Hace poco menos de un mes comenzó la gran aventura llamada Dev.F, pocas personas estaban enteradas de lo que nos esperaba y muchas (incluyéndome) tomamos la decisión de &lt;em&gt;hackear nuestras vidas&lt;/em&gt; y decidimos aceptar aquella invitación misteriosa.&lt;/p&gt;
+
+&lt;p&gt;Lunes 7 de Julio a las 15:00 fue la cita para todos mis compañeros, personas que ahora forman parte de una lista muy especial que hice en Facebook y que seguramente se hará más grande con forme pase el tiempo, puesto que he encontrado una comunidad de personas totalmente nueva. Personas con diferentes orígenes, tintes y matices; aunque todas ellas tienen algo en común, su forma de ver la vida. La filosofía de un hacker no significa romper las leyes, no es ir en contra de los demás o de ser personas intolerantes, todo lo contrario.&lt;/p&gt;
+
+&lt;p&gt;Un &lt;strong&gt;hacker&lt;/strong&gt; es aquella persona capaz de solucionar los problemas, es aquella mente que ve diferente y tiene la capacidad de crear, construir y ayudar.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Solucionar es evolucionar. Hackear es cambiar el mundo.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Aprendí demasiadas cosas como para poder listar todas en un sólo post, sin embargo, puedo decir que &lt;em&gt;Dev.F cambió la visión que tengo de la vida&lt;/em&gt;, no es cosa de que vaya a dejar mis posesiones materiales y me vaya al Tíbet, pero ahora siento que tengo la posibilidad (además de las herramientas) para poder hacer algo en el mundo y en la sociedad para cambiarlo a bien.&lt;/p&gt;
+
+&lt;p&gt;Algún día durante este mes un amigo me preguntó:
+&amp;gt; ¿Cómo le haces para ser tan chingón?&lt;/p&gt;
+
+&lt;p&gt;A lo que yo respondí:
+&amp;gt; Simple, sólo tienes que rodearte de gente chingona.&lt;/p&gt;
+
+&lt;p&gt;Y precisamente, así de fácil lo hizo Dev.F con nosotros, juntó un grupo de personas con las mejores capacidades en su área, capaces de dar lo mejor de sí, los puso en Centraal (el mejor lugar que pudieron haber encontrado para algo como esto) y después… &lt;strong&gt;La magia comenzó a surgir sola&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;La idea era que los des-alumnos hackearamos los problemas, pero al final, creo que todos nosotros fuimos los hackeados.&lt;/p&gt;
+
+&lt;p&gt;Agradecimientos especiales a PEG…&lt;/p&gt;
+</description>
+        <pubDate>Sat, 02 Aug 2014 17:01:20 -0500</pubDate>
+        <link>http://devf.mx/jekyll/update/2014/08/02/adventure-time.html</link>
+        <guid isPermaLink="true">http://devf.mx/jekyll/update/2014/08/02/adventure-time.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+  </channel>
+</rss>
