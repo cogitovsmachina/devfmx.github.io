@@ -14,6 +14,6 @@ highlighter: pygments
 github: https://github.com/github/devfmx.github.io
 safe: true
 lsi: false
-source: .
+source: devfmx.github.io
 
 
