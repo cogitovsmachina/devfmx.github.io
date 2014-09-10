@@ -6,7 +6,7 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://devf.mx" # the base hostname & protocol for your site
 twitter_username: devfmx
-github_username:  devf
+github_username:  devfmx
 
 # Build settings
 markdown: kramdown
@@ -14,6 +14,5 @@ highlighter: pygments
 github: https://github.com/github/devfmx.github.io
 safe: true
 lsi: false
-source: nrike.github.io/devfmx.github.io
-
+source: .
 
