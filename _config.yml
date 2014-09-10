@@ -10,3 +10,10 @@ github_username:  devf
 
 # Build settings
 markdown: kramdown
+highlighter: pygments
+github: https://github.com/github/devfmx.github.io
+safe: true
+lsi: false
+source: .
+
+
